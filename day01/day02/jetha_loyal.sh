@@ -1,5 +1,5 @@
 <<disclaimer
-This is inotaiment
+This is infotaiment
 disclaimer
 
 read -p "Jetha ne mud ke kaishe dekha: " bandi
